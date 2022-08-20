@@ -2,7 +2,7 @@
 ----------------------------------------
 |No | Data  | Isian|
 |---|:-------:|------:|
-|1. |Nama     |       |
+|1. |Nama     |   Yehuda Siahaan    |
 |2.| NIM        |       |
 |3. |Link github |      |
 |4.| Link Edabit |      |
